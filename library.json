@@ -4,16 +4,16 @@
   "sets": [
     {
       "name": "Female (SFW)",
-      "file": "Bungles Wildcards v1.0 (female-sfw).json",
-      "version": "1.0",
-      "count": 1498,
+      "file": "Bungles Wildcards v1.1 (female-sfw).json",
+      "version": "1.1",
+      "count": 1522,
       "description": "Women's outfits, looks, places, activities and poses."
     },
     {
       "name": "Male (SFW)",
-      "file": "Bungles Wildcards v1.0 (male-sfw).json",
-      "version": "1.0",
-      "count": 1421,
+      "file": "Bungles Wildcards v1.1 (male-sfw).json",
+      "version": "1.1",
+      "count": 1445,
       "description": "Men's outfits, looks, places, activities and poses."
     }
   ]
